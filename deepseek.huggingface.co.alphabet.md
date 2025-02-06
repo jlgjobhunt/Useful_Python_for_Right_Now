@@ -11,7 +11,13 @@
 #### It is to fundraise for a future conglomerate of multiple businesses at pre-seed.
 #### The crowdfunding bonds pay off at 14% APY at $1.00 each so that $1.14,
 #### one dollar and fourteen cents is due. after one (1) year.
-#### 
+#### This was the DeepSeek @ HuggingFace thread:
+#### https://huggingface.co/chat/conversation/67a31a5c0fa94a909624ffc0
+####
+####
+#### What follows is Joshua Greenfield's cleanup work to give a working ncurses
+#### and block lettering style copy-and-paste for styling up the headers of source
+#### code.
 
 
 
